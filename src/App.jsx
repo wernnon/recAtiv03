@@ -7,6 +7,12 @@ function App(){
 return(
     
     <div>
+
+            <p className='text'>
+                Mais lidas
+            </p>  
+            <List />
+
         <div className='text'>
 
             Mais lidas
@@ -14,6 +20,7 @@ return(
         </div>
         
         <List/>  
+
 
     </div>
 )
