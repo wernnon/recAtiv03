@@ -26,30 +26,6 @@ function List(){
             
         </div>
     );
-
-
-        <p>
-            <div className='noticia'>
-                <div className='numero'>
-                
-                    {r.n}
-                
-                </div>
-                
-                {r.noticia}
-            
-            </div>
-               
-        </p> 
-      )
-      return(
     
-        <div>
-     
-            {lista}  
-    
-        </div>
-    )
-
 }
 export default List;
