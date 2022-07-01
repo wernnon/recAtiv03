@@ -41,6 +41,10 @@ button {
   font-size: calc(10px + 2vmin);
 }
 .text{
+
   font-weight: bold;
   font-size: large;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
 }

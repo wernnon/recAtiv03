@@ -11,10 +11,12 @@
     font-weight: bold;
     padding-top: 20px;
     padding-bottom: 20px;
-    
+    padding-bottom: 10px;  
 }
 .numero{
     padding: 15px;
+    padding-top: 17px;
+    padding-bottom: 11px;
     color: gray;
     font-size: 25px;
 }
