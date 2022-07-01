@@ -1,5 +1,6 @@
 import './List.css'
 function List(){
+    //lista das noticias
     const readmore =[
         {n:"1",noticia:"Funcinária que dencuniou procurador diz que agressor 'despresava mulheres' e teme  sair na rua:'Muito medo'"},
         {n:"2",noticia:"Imposto de Renda 2022: Receita abre consultas ao 2º lote de restituição nesta  quinta; veja se você está no grupo"},
